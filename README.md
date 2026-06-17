@@ -1,1 +1,2 @@
 # odin-recipes
+"Odin Recipes is a modern recipe discovery platform that allows users to search for recipes, view detailed cooking instructions, and save their favorite meals. The website provides an intuitive interface for exploring cuisines and planning meals with ease."
